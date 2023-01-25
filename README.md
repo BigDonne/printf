@@ -1,2 +1,1 @@
-# printf
-ALX assignment
+C - printf
